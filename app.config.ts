@@ -1,8 +1,8 @@
 export default defineAppConfig({
   docus: {
-    title: 'Documentation',
+    title: 'Clever Doc',
     description: 'Get started on Clever Cloud',
-    image: 'https://cellar-c2.services.clever-cloud.com/precious-jpegs/clever-cool.svg',
+    image: '/clever-cool-transformed.png',
 
     socials: {
       twitter: 'nuxt_js',
